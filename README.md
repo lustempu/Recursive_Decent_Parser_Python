@@ -1,6 +1,6 @@
 # Recursive_Decent_Parser_Python
-Project Description: Recursive Decent Parser in Python 
-In Python Language we are to implement a simple Recursive Descent Parse to handle an arithmetic expression.
+Project Description: Recursive Decent Parser (RDP) in Python 
+A Python RDP to handle an arithmetic expression.
 After entering a valid line of code (such as x = 3 + 4 * 2) output the list of components you have processed, such as:
 
 C1: x = C2
